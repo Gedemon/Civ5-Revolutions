@@ -19,7 +19,10 @@ Revolt (city enter resistance), Rebellion (rebels unit spawning nearby) and Revo
 
 	-- Credits & thanx --
 
-Whys (SaveUtils), whoward69 (Route Finding)
+Whys (SaveUtils)
+whoward69 (Route Finding)
+antiplaka (localization and Russian translation)
+Samouelter (French translation)
 
 	-- To do --
 
